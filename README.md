@@ -3,7 +3,7 @@ JAVA | binary search tree, algorithms, data structures
 
 This project is an implementation of a Binary Search Tree data structure in Java. A Binary Search Tree is a data structure that allows for efficient searching, insertion and deletion of elements in a sorted manner. This implementation includes functionality to print the tree, find the height and size of the tree, insert and delete nodes, find the minimum and maximum value in the tree, and check if a specific value is present in the tree.
 
-#Using the Program
+# Using the Program
 The program expects an input file containing a series of commands, one per line. The commands that are currently supported are:
 
 PrintTree: prints the tree in order
