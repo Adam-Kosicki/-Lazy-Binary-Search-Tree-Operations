@@ -1,0 +1,18 @@
+True
+True
+True
+True
+True
+True
+True
+ 10 5 3 7 15 13 18
+2
+7
+3
+18
+True
+False
+True
+ 10 5 3 7 15 *13 18
+2
+7
