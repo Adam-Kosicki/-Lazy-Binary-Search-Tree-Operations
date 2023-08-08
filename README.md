@@ -1,5 +1,4 @@
 # Lazy Binary Search Tree Operations
-Java | Encapsulation, Recursion, Class Instantiation, Method Calling
 
 This project is an implementation of a Binary Search Tree data structure in Java. A Binary Search Tree is a data structure that allows for efficient searching, insertion and deletion of elements in a sorted manner. This implementation includes functionality to print the tree, find the height and size of the tree, insert and delete nodes, find the minimum and maximum value in the tree, and check if a specific value is present in the tree.
 
